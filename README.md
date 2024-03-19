@@ -7,8 +7,8 @@ SPDX-License-Identifier: CC0-1.0
 
 Cat :3
 ---
-[Cat](https://tooltech.neocities.org/) theme for Prism Launcher. owo.
-art by [ziwie](https://github.com/ziwie)
+[Cat](https://tooltech.neocities.org/) theme for [Prism Launcher](https://prismlauncher.org/). (does not work with MultiMC)
+art by [ziwie](https://namemc.com/profile/ziwie.1)
 
 ## Preview
 ![Cat Preview](preview.png)
