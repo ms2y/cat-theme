@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2024 tooltech <tooltech@proton.me>
+SPDX-FileCopyrightText: 2024 dero2y <tooltech@proton.me>
 
 SPDX-License-Identifier: CC0-1.0
 
@@ -18,7 +18,7 @@ art by [ziwie](https://namemc.com/profile/ziwie.1)
 GPL-3.0-or-later License
 
 Copyright (c) 2024 Cat Theme
-Copyright (c) 2024 tooltech
+Copyright (c) 2024 dero2y
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
